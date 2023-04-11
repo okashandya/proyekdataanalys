@@ -1,4 +1,4 @@
-# E-Commerce public data Dashboard ✨
+# E-Commerce public data Dashboard
 
 ## Setup environment
 ```
